@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Он любит</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    //ANSWERS
+    <string name="An1">Кто создал майнкрафт?</string>
+    <string name="AN1BTN1">Маркусс Перссон</string>
+    <string name="AN1BTN2">Когда долго смотрю на него</string>
+    <string name="AN1BTN3">Да</string>
+
+    <string name="An2">Как меняется его поведение, когда ты подходишь?</string>
+    <string name="AN2BTN1">Робеет, меняет темы не в попад</string>
+    <string name="AN2BTN2">Шутит больше чем обычно</string>
+    <string name="AN2BTN3">Никак</string>
+
+    <string name="An3">Всегда смотрит в глаза во время беседы?</string>
+    <string name="AN3BTN1">Глаза бегают</string>
+    <string name="AN3BTN2">Умеренно</string>
+    <string name="AN3BTN3">Все время</string>
+
+    <string name="An4">Часто ли он поправляет одежду или волосы в твоем присутствии?</string>
+    <string name="AN4BTN1">Как обычно</string>
+    <string name="AN4BTN2">Чаще чем обычно</string>
+    <string name="AN4BTN3">Не замечала</string>
+
+    <string name="An5">Когда ты меняешь позу, он тоже меняет?</string>
+    <string name="AN5BTN1">Да</string>
+    <string name="AN5BTN2">Нет</string>
+    <string name="AN5BTN3">Не замечала</string>
+
+    <string name="An6">Ставит лайки даже под неудачными фотографиями?</string>
+    <string name="AN6BTN1">Только под удачными фото</string>
+    <string name="AN6BTN2">Да</string>
+    <string name="AN6BTN3">Нет</string>
+
+    <string name="An7">Как часто он пишет?</string>
+    <string name="AN7BTN1">Каждый день</string>
+    <string name="AN7BTN2">Иногда</string>
+    <string name="AN7BTN3">Мы не переписываемся</string>
+
+    <string name="An8">С чего начинается ваш диалог в социальных сетях?</string>
+    <string name="AN8BTN1">Всегда разные темы</string>
+    <string name="AN8BTN2">"Привет, как дела?"</string>
+    <string name="AN8BTN3">Мы не переписываемся</string>
+
+    <string name="An9">При разговоре часто поднимает брови, улыбается?</string>
+    <string name="AN9BTN1">Да</string>
+    <string name="AN9BTN2">Нет</string>
+    <string name="AN9BTN3">Не замечала</string>
+
+    <string name="An10">Часто оказывается в местах, ему не свойственных?</string>
+    <string name="AN10BTN1">Да</string>
+    <string name="AN10BTN2">Нет</string>
+    <string name="AN10BTN3">Не замечала</string>
+
+    <string name="An11">Внимательно слушает, помнит даже незначительные факты о вас?</string>
+    <string name="AN11BTN1">Да</string>
+    <string name="AN11BTN2">Больше да, чем нет</string>
+    <string name="AN11BTN3">Больше нет, чем да</string>
+
+    <string name="An12">Ценит ваше окружение, с радостью знакомит со своим?</string>
+    <string name="AN12BTN1">Да</string>
+    <string name="AN12BTN2">Больше да, чем нет</string>
+    <string name="AN12BTN3">Больше нет, чем да</string>
+
+    <string name="An13">Когда разговаривает с тобой, не знает куда деть руки. (Кладет в карманы, держит перед собой)</string>
+    <string name="AN13BTN1">Да</string>
+    <string name="AN13BTN2">Нет</string>
+    <string name="AN13BTN3">Не замечала</string>
+
+    <string name="An14">Часто иронизирует над твоим поведением?</string>
+    <string name="AN14BTN1">Да</string>
+    <string name="AN14BTN2">Больше да, чем нет</string>
+    <string name="AN14BTN3">Нет</string>
+
+    <string name="An15">Пошутив в компании друзей, оценивает твою реакцию?</string>
+    <string name="AN15BTN1">Да</string>
+    <string name="AN15BTN2">Редко</string>
+    <string name="AN15BTN3">Не замечала</string>
+
+
+    <string name="PERSON1D">Равнодушен</string>
+    <string name="PERSON1FD">Он к тебе равнодушен или, может быть, тебя еще не заметил.
+        Не стесняйся сделать первый шаг и, возможно, он тебя полюбит!</string>
+
+    <string name="PERSON2D">Заинтересован</string>
+    <string name="PERSON2FD">Он испытывает интерес к тебе и, возможно, готов на большее.
+        Продолжай с ним общаться, чтобы понять какого характера его заинтересованность.</string>
+
+    <string name="PERSON3D">Скорее всего любит</string>
+    <string name="PERSON3FD">Скорее всего он испытывает нечто большее, чем чувство дружбы.
+        Хороший способ узнать точно - проследить за его поведением в компании друзей с тобой и без. (Лучшая подруга в помощь)</string>
+
+    <string name="PERSON4D">Влюблен</string>
+    <string name="PERSON4FD">Если вы дали точные ответы, то да - он в вас влюблен.
+        Можно смело делать первый шаг и строить совместную жизнь. (Рекомендуем пройти тест еще раз, чтобы избежать недоразумений)</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textview">TextView</string>
+
+
+</resources>
